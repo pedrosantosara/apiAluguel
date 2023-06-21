@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ApiAluguelApplication<apiAluguel>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.apiAluguel.ApiAluguelApplication",
+      "projectName": "apiAluguel",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
